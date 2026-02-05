@@ -1,7 +1,7 @@
 # Cybersecurity Fundamentals Portfolio
 
 This repository contains a small collection of security analysis exercises
-focused on core cybersecurity and incident response concepts.  
+focused on core cybersecurity and incident response concepts. 
 The work is based on realistic scenarios and emphasizes analysis, detection,
 and practical security thinking rather than tool-heavy implementations.
 
