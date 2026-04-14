@@ -1,61 +1,46 @@
 # Cybersecurity Fundamentals Portfolio
 
-This repository contains a curated collection of cybersecurity analysis exercises
-based on realistic scenarios. The focus is on **security reasoning, risk analysis,
-incident investigation, and decision-making**, rather than tool-heavy or exploit-based work.
+This repository contains practical cybersecurity analysis exercises focused on security reasoning, incident analysis, risk assessment, and foundational defensive concepts.
 
-The activities reflect foundational skills expected from entry-level cybersecurity
-and security operations roles.
+## Focus Areas
 
-## Contents
+- Network security fundamentals
+- Access control and least privilege
+- Incident response and NIST CSF
+- Network traffic analysis
+- SQL-based security investigation
+- Risk assessment and prioritization
 
-### Network Hardening Assessment  
-Analysis of common network vulnerabilities and recommended hardening measures,
-including strong authentication policies, firewall configuration, and access control
-to reduce exposure and prevent breaches.
+## Portfolio Contents
 
-### Access Control and AAA Analysis  
-Review of authentication, authorization, and accounting issues in a small business
-environment, identifying excessive privileges and improper account lifecycle
-management, with recommendations based on the principle of least privilege.
+### Network Hardening Assessment
+Brief analysis of common network weaknesses and recommended hardening measures.  
+**Skills:** hardening, authentication, firewall reasoning, access control
 
-### Network Traffic Analysis  
-Investigation of a DNS service disruption using packet analysis concepts. The activity
-identifies DNS and ICMP behavior in tcpdump logs and determines the root cause of
-service unavailability.
+### Access Control Assessment
+Review of AAA and privilege issues in a small business environment.  
+**Skills:** least privilege, account lifecycle review, authorization analysis
 
-### Incident Response Using NIST CSF  
-Analysis of a denial-of-service (DoS) attack using the NIST Cybersecurity Framework
-(NIST CSF), covering Identify, Protect, Detect, Respond, and Recover phases to improve
-organizational resilience.
+### Network Traffic Analysis
+Investigation of DNS service disruption using packet analysis concepts.  
+**Skills:** DNS, ICMP, troubleshooting, log interpretation
 
-### SQL Query Filtering for Security Analysis  
-Use of SQL filtering techniques to investigate security events such as failed login
-attempts, suspicious access patterns, and department-based asset management. The
-activity demonstrates practical use of `AND`, `OR`, `NOT`, `LIKE`, date, and time
-filters in a security context.
+### Incident Response Using NIST CSF
+Analysis of a DoS scenario using the NIST Cybersecurity Framework.  
+**Skills:** Identify, Protect, Detect, Respond, Recover
 
-### Risk Assessment and Prioritization  
-Evaluation of common operational and cybersecurity risks within a financial
-institution. Risks are scored based on likelihood and severity to support informed
-prioritization and resource allocation.
+### SQL Query Filtering for Security Analysis
+Use of SQL filtering techniques to investigate suspicious activity and login patterns.  
+**Skills:** SQL, filtering, investigation logic
 
-### Data Leak Risk Assessment  
-Analysis of an internal data leak caused by improper access controls. The activity
-applies the principle of least privilege and references NIST SP 800-53 (AC-6) to
-recommend control enhancements that reduce the likelihood of future data exposure.
+### Risk Assessment and Prioritization
+Evaluation of operational and cybersecurity risks using severity and likelihood.  
+**Skills:** prioritization, risk scoring, decision-making
+
+### Data Leak Risk Assessment
+Assessment of internal data leak risk caused by poor access control.  
+**Skills:** access control, policy reasoning, NIST SP 800-53 awareness
 
 ## Purpose
 
-This repository was created to demonstrate foundational knowledge in:
-
-- Network security fundamentals  
-- Incident analysis and response  
-- Traffic analysis and troubleshooting  
-- Risk assessment and prioritization  
-- Access control and data protection  
-- Applying security frameworks and standards in practical scenarios  
-
-All content is intentionally concise, structured, and focused on **clear reasoning,
-communication, and security decision-making**, suitable for a junior cybersecurity
-portfolio.
+I built this repository to practice structured cybersecurity thinking and to document foundational analysis work in a concise, readable way.
