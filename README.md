@@ -55,6 +55,16 @@ Evaluation of operational and cybersecurity risks using severity and likelihood.
 Assessment of internal data leak risk caused by poor access control.  
 **Skills:** access control, policy reasoning, NIST SP 800-53 awareness
 
+## Skills Demonstrated
+
+- Security reasoning and structured analysis
+- Network troubleshooting fundamentals
+- Access control evaluation
+- Risk assessment and prioritization
+- Incident response thinking using NIST CSF
+- SQL filtering for investigation tasks
+- Clear written technical communication
+
 ## Purpose
 
 I built this repository to practice structured cybersecurity thinking and to document foundational analysis work in a concise, readable way.
